@@ -2,7 +2,7 @@
 //  Gun.m
 //  BigShot
 //
-//  Created by Keiichiro Nagashima on 11/11/15.
+//  Created by k16 on 11/11/15.
 //  Copyright 2011年 __MyCompanyName__. All rights reserved.
 //
 

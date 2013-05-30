@@ -2,7 +2,7 @@
 //  TitleScene.h
 //  BigShot
 //
-//  Created by Keiichiro Nagashima on 11/11/16.
+//  Created by k16 on 11/11/16.
 //  Copyright 2011年 __MyCompanyName__. All rights reserved.
 //
 
